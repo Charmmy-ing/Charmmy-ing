@@ -1,127 +1,89 @@
+<!-- 顶部动态欢迎横幅 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi%2C+I'm+Charmmy-ing+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+</div>
 
-<p align="center">
-  < img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alex+%F0%9F%91%8B;Backend+%26+Agent+Developer;Building+Autonomous+Systems" alt="Typing SVG" />
-</p >
+<!-- 打字机效果介绍 (已替换为稳定的 demolab 域名) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Agent+Developer;Building+Autonomous+Systems;Focus+on+LLM+%2B+ToolUse" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<!-- 个人简介 -->
 <p align="center">
   <samp>
-    「 构建有灵魂的后端，赋予代码自主的思考 」
+    「 JUEST DO YOURSELF 」<br/>
+    🔭 专注于 <b>后端基础设施</b> 与 <b>自主智能体 (Agent)</b> &nbsp;|&nbsp; 
+    🧩 沉迷于构建能调用工具、拥有记忆的 <b>LLM Agent</b> &nbsp;|&nbsp; 
+    ⚙️ 偏好 <b>Go / Java</b> 高性能分布式服务
   </samp>
-</p >
+</p>
 
----
+<br/>
 
-### 🧠 About Me
+<!-- 技术栈图标 -->
+<h3 align="center">🛠️ 技术栈 · 双核引擎</h3>
 
-<p align="center">
-  < img src="https://img.shields.io/badge/Backend-Infra-blue?style=for-the-badge&logo=go&logoColor=white" />
-  < img src="https://img.shields.io/badge/Agent-Autonomy-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  < img src="https://img.shields.io/badge/Focus-LLM%20%2B%20ToolUse-ff69b4?style=for-the-badge" />
-</p >
+<div align="center">
+  <!-- 核心语言与基建 -->
+  <img src="https://skillicons.dev/icons?i=go,rust,python,typescript,nodejs,spring,docker,kubernetes,aws,linux" /><br/>
+  <!-- 数据库与工具 -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,mysql,git,github,vscode" />
+</div>
 
-- 🔭 我是一名专注于 **后端基础设施** 与 **自主智能体** 的小众开发者。
-- 🧩 相信未来的应用不是被“操作”的，而是被“协作”的，所以我沉迷于构建能调用工具、拥有记忆、自我反思的 Agent。
-- ⚙️ 后端语言偏好 **Go / Rust**，喜欢打磨高性能、高可用的分布式服务。
-- 📫 联系方式：  
-  ✉️ QQ邮箱：**you@qq.com**  
-  ✉️ Google邮箱：**you@gmail.com**  
-  🐦 推特：**[@yourhandle](https://x.com/yourhandle)**
-
----
-
-### 🛠️ 技术栈 · 双核引擎
+<br/>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <strong>⚡ 后端基建</strong><br><br>
-      < img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      < img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      < img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      < img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      < img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      < img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <strong>🤖 Agent 引擎</strong><br><br>
-      < img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      < img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat-square&logo=llamaindex&logoColor=white" />
-      < img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      < img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=chromadb&logoColor=white" />
-      < img src="https://img.shields.io/badge/Function_Calling-Expert-00C7B7?style=flat-square" />
-      < img src="https://img.shields.io/badge/Multi--Agent_Orchestration-WIP-yellow?style=flat-square" />
+      <strong>🤖 Agent </strong><br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat-square&logo=llamaindex&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=chromadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Function_Calling-Expert-00C7B7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Multi--Agent-WIP-yellow?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧪 正在进行的实验：LocalMind Agent
+### 🧪 正在进行的实验：LocalChart Agent
 
-> 一个完全运行在本地的个人研究助手 Agent，能调用本地文件系统、浏览器、终端，并具备短期记忆。
-> <!-- 顶部动态欢迎横幅 -->
-<div align="center">
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontAlignY=35&animation=twinkling" width="100%"/>
-</div>
+> 一个完全运行在本地的个人聊天助手 Agent,可以帮你更好的与他人chatting 顺利get到他的意思understand他的言外之意&&It can调用本地文件系统、浏览器、终端，并具备短期记忆.
 
-<!-- 打字机效果介绍 -->
-<div align="center">
-  <a href=" ">
-    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </a >
-</div>
-
-<br/>
-
-<!-- 个人简介 -->
-<h3 align="center">🚀 关于我</h3>
-
-<p align="center">
-  <samp>
-    🔭 正在研究 <b>前沿技术</b> &nbsp;|&nbsp; 
-    🌱 持续学习 <b>新技术栈</b> &nbsp;|&nbsp; 
-    💬 欢迎交流 <b>技术问题</b> &nbsp;|&nbsp; 
-    ⚡ 热爱 <b>开源社区</b>
-  </samp>
-</p >
-
-<br/>
-
-<!-- 技术栈图标 -->
-<h3 align="center">🛠 技术栈</h3>
-
-<div align="center">
-  
-  <!-- 前端 -->
-  < img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind" /><br/>
-  <!-- 后端 -->
-  < img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,java,spring,express,django" /><br/>
-  <!-- 数据库 & 工具 -->
-  < img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,github,linux,vscode" />
-  
-</div>
-
-<br/>
+---
 
 <!-- GitHub 统计卡片 -->
 <h3 align="center">📊 GitHub 统计</h3>
 
 <div align="center">
-  < img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  < img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charmmy-ing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charmmy-ing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  < img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Charmmy-ing&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- 奖杯 -->
 <div align="center">
-  < img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charmmy-ing&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 <br/>
@@ -130,7 +92,7 @@
 <h3 align="center">🐍 贡献记录</h3>
 
 <div align="center">
-  < img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Charmmy-ing/Charmmy-ing/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
@@ -139,25 +101,20 @@
 <h3 align="center">🌐 联系我</h3>
 
 <div align="center">
-  
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+  <a href="mailto:you@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <!-- 底部横幅 -->
 <div align="center">
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" width="100%"/>
 </div>
 
 <!-- 访问计数 -->
 <div align="center">
-  < img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Charmmy-ing&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![主力语言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css)
