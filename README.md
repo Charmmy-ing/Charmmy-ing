@@ -1,6 +1,6 @@
 <!-- 顶部动态欢迎横幅 (清华紫渐变) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=200&section=header&text=Hi%2C+I'm+Charmmy-ing+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=200&section=header&text=Hello%2C+I'm+Charmmy+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 
 <!-- 打字机效果介绍 (契合 AI 应用开发定位) -->
@@ -9,11 +9,10 @@
 </div>
 
 <br/>
-
 <!-- 个人简介 (微调为 AIGC/大模型应用方向) -->
 <p align="center">
   <samp>
-    「 JUEST BE YOURSELF 」<br/>
+    <strong>「 JUEST BE YOURSELF 」<strong><br/>
     🔭 专注于 <b>AI 应用开发 (AIGC)</b> 与 <b>自主智能体 (Agent)</b> &nbsp;|&nbsp; 
     🧩 沉迷于构建 <b>RAG 系统</b>、<b>多智能体协同</b> 与 <b>大模型工作流</b> &nbsp;|&nbsp; 
     ⚙️ 偏好 <b>Python / Java / Go</b> 打造高性能 AI 后端服务
@@ -95,7 +94,7 @@
 
 ---
 
-### 🧪 正在进行的实验：LocalChat RAG Agent
+### 🧪 正在deepthinking&&will start的实验：LocalChat RAG Agent
 
 > 一个完全运行在本地的个人知识库与沟通助手 Agent。基于 **RAG (检索增强生成)** 架构，精准捕捉对话上下文与本地文档，理解言外之意。支持通过 **Function Calling** 调用本地文件系统、浏览器和终端，并具备短期与长期向量记忆能力。
 
