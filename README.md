@@ -125,8 +125,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=120&section=footer" width="100%"/>
 </div>
-
-<!-- 访问计数 (极其稳定的 seeyoufarm 服务，清华紫配色) -->
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharmmy-ing&count_bg=%23791CB5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" />
-</div>
