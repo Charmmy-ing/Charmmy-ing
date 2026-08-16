@@ -1,6 +1,6 @@
 <!-- 顶部动态欢迎横幅  -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=200&section=header&text=Hello%2C+I'm+Charmmy+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=150&section=header&text=Hi%2C+I'm+Charmmy+%F0%9F%98%98&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 <!-- 打字机效果介绍  -->
 <div align="center">
@@ -69,7 +69,7 @@
 
 <br/>
 
-<!-- 联系方式 (仅保留三个邮箱) -->
+<!-- 联系方式  -->
 <h3 align="center">📫 Contact me</h3>
 
 <div align="center">
@@ -77,7 +77,7 @@
   <a href="mailto:2127137114@qq.com"><img src="https://img.shields.io/badge/QQ_Email-EB4B36?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
   <a href="mailto:charmy.henu.edu.cn"><img src="https://img.shields.io/badge/School_Email-791CB5?style=for-the-badge&logo=mailbox&logoColor=white" /></a>
 </div>
-<!-- 底部横幅 (清华紫渐变) -->
+<!-- 底部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=120&section=footer" width="100%"/>
 </div>
