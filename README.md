@@ -11,9 +11,9 @@
 <p align="center">
   <samp>
     <strong>「 JUEST  BE  YOURSELF 」<strong><br/>
-    🔭专注 <b>AI Application Development</b> 与 <b>Autonomous Agent (Agent)</b> &nbsp;|&nbsp; 
-    🧩沉迷 <b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b> &nbsp;|&nbsp; 
-    ⚙️偏好 <b>Python / Java</b>
+    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
+    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
+    ⚙️<b>Python / Java</b>
   </samp>
 </p>
 <br/>
@@ -61,14 +61,10 @@
 </table>
 
 ---
-
-### 🧪Projects under planning and development: AGENT X (AX)
+### 🧪Projects under planning and development: X Synapse
 [Stay tuned – the V1 version will be launched in the near future]
-> 一个类X（推特）项目，与现在的X对比它将有更全面，更高效的LLM，并且最重要的是它将支持内嵌多款不同的Agent来提高你的任务效率，同时它的私信聊天功能也将发生颠覆性变化（包括但不限：引入LLM，可建立群聊，高度加密等）...
+>X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
 ---
-
-<br/>
-
 <!-- 联系方式  -->
 <h3 align="center">📫 Contact me</h3>
 
