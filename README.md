@@ -1,6 +1,6 @@
 <!-- 顶部动态欢迎横幅  -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=150&section=header&text=Hi%2C+I'm+Charmmy+%F0%9F%98%98&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=100&section=header&text=Hi%2C+I'm+Charmmy+%F0%9F%98%98&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 <!-- 打字机效果介绍  -->
 <div align="center">
@@ -75,5 +75,5 @@
 </div>
 <!-- 底部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=100&section=footer" width="100%"/>
 </div>
