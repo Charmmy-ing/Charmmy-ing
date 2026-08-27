@@ -1,8 +1,8 @@
 <!-- 顶部动态欢迎横幅  -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=100&section=header&text=Hi%2C+I'm+Charmmy&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=100&section=header&text=Hi！%2C+I'm+Charmmy&fontSize=45&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
-<!-- 打字机效果介绍  -->
+<!-- 打字机效果  -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=600&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
 </div>
@@ -10,7 +10,7 @@
 <!-- 个人简介 -->
 <p align="center">
   <samp>
-    <strong>「 JUEST  BE  YOURSELF 」<strong><br/>
+    <strong>「JUEST BE YOURSELF」<strong><br/>
     🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
     🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
     ⚙️<b>Python / Java</b>
