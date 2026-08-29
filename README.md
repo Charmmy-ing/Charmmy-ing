@@ -1,10 +1,10 @@
 <!-- 顶部动态欢迎横幅  -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=100&section=header&text=Hi%2C+I'm+Charmmy&fontSize=43&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:791CB5,100:4A0E78&height=95&section=header&text=Hi%2C+I'm+Charmmy&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 <!-- 打字机效果  -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=600&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
 </div>
 <br/>
 <!-- 个人简介 -->
@@ -20,7 +20,7 @@
 <!-- 技术栈 -->
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <strong>🧠 AI Framework and Workflow</strong><br><br>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat-square&logo=meta&logoColor=white" />
@@ -76,5 +76,5 @@
 </div>
 <!-- 底部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=70&section=footer" width="100%"/>
 </div>
