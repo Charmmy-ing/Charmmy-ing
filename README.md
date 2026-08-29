@@ -4,7 +4,7 @@
 </div>
 <!-- 打字机效果  -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
 </div>
 <br/>
 <!-- 个人简介 -->
