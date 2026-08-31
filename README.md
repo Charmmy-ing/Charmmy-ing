@@ -12,18 +12,6 @@
 [Stay tuned – the V1 version will be launched in the near future]
 >X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
 ---
-
-<br/>
-<!-- 个人简介 -->
-<p align="center">
-  <samp>
-    <strong>「JUEST BE YOURSELF」<strong><br/>
-    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
-    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
-    ⚙️<b>Python / Java</b>
-  </samp>
-</p>
-<br/>
       
 <!-- 技术栈 -->
 <table align="center">
@@ -67,6 +55,19 @@
     </td>
   </tr>
 </table>
+
+<br/>
+<!-- 个人简介 -->
+<p align="center">
+  <samp>
+    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
+    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
+    ⚙️<b>Python / Java</b>
+      ><br/>
+       <strong>「JUEST BE YOURSELF」<strong>
+  </samp>
+</p>
+<br/>
 
 <!-- 联系方式  -->
 <h3 align="center">📫 Contact me</h3>
