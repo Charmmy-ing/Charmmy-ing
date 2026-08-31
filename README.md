@@ -6,6 +6,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
 </div>
+
+---
+### 🧪Projects under planning and development: X Synapse
+[Stay tuned – the V1 version will be launched in the near future]
+>X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
+---
+
 <br/>
 <!-- 个人简介 -->
 <p align="center">
@@ -17,6 +24,7 @@
   </samp>
 </p>
 <br/>
+      
 <!-- 技术栈 -->
 <table align="center">
   <tr>
@@ -59,12 +67,6 @@
     </td>
   </tr>
 </table>
-      
----
-### 🧪Projects under planning and development: X Synapse
-[Stay tuned – the V1 version will be launched in the near future]
->X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
----
 
 <!-- 联系方式  -->
 <h3 align="center">📫 Contact me</h3>
