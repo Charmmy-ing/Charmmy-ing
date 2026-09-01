@@ -12,7 +12,15 @@
 [Stay tuned – the V1 version will be launched in the near future]
 >X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
 ---
-      
+
+<!-- 联系方式  -->
+<h3 align="center">📫 Contact me</h3>
+
+<div align="center">
+  <a href="mailto:lc5207242@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:2127137114@qq.com"><img src="https://img.shields.io/badge/QQ_Email-EB4B36?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
+  <a href="mailto:charmy.henu.edu.cn"><img src="https://img.shields.io/badge/School_Email-791CB5?style=for-the-badge&logo=mailbox&logoColor=white" /></a>
+</div>
 <!-- 技术栈 -->
 <table align="center">
   <tr>
@@ -69,14 +77,7 @@
 </p>
 <br/>
 
-<!-- 联系方式  -->
-<h3 align="center">📫 Contact me</h3>
 
-<div align="center">
-  <a href="mailto:lc5207242@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:2127137114@qq.com"><img src="https://img.shields.io/badge/QQ_Email-EB4B36?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  <a href="mailto:charmy.henu.edu.cn"><img src="https://img.shields.io/badge/School_Email-791CB5?style=for-the-badge&logo=mailbox&logoColor=white" /></a>
-</div>
 <!-- 底部横幅 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=70&section=footer" width="100%"/>
