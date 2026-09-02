@@ -9,12 +9,12 @@
 
 <!-- 个人简介 -->
 <p align="center">
-  <samp>
-    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
-    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
-    ⚙️<b>Python / Java</b>
-      ><br/>
+  <samp><br/>
        <strong>「JUEST BE YOURSELF」<strong>
+         <br>
+    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
+    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b> | 
+    ⚙️<b>Python / Java</b>
   </samp>
 </p>
 <br/>
