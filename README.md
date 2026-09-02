@@ -7,20 +7,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1500&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Building+RAG+%26+Agent+Systems;LLM+Workflow+%26+ToolUse" alt="Typing SVG" />
 </div>
 
+<!-- 个人简介 -->
+<p align="center">
+  <samp>
+    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
+    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
+    ⚙️<b>Python / Java</b>
+      ><br/>
+       <strong>「JUEST BE YOURSELF」<strong>
+  </samp>
+</p>
+<br/>
+
 ---
 ### 🧪Projects under planning and development: X Synapse
 [Stay tuned – the V1 version will be launched in the near future]
 >X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
 ---
 
-<!-- 联系方式  -->
-<h3 align="center">📫 Contact me</h3>
-
-<div align="center">
-  <a href="mailto:lc5207242@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:2127137114@qq.com"><img src="https://img.shields.io/badge/QQ_Email-EB4B36?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  <a href="mailto:charmy.henu.edu.cn"><img src="https://img.shields.io/badge/School_Email-791CB5?style=for-the-badge&logo=mailbox&logoColor=white" /></a>
-</div>
 <!-- 技术栈 -->
 <table align="center">
   <tr>
@@ -63,20 +67,14 @@
     </td>
   </tr>
 </table>
+<!-- 联系方式  -->
+<h3 align="center">📫 Contact me</h3>
 
-<br/>
-<!-- 个人简介 -->
-<p align="center">
-  <samp>
-    🔭<b>AI Application Development</b> 与 <b>Autonomous Agent </b>| 
-    🧩<b>RAG</b>、<b>Multi-Agent Collaboration</b> 与 <b>Large Model Workflow</b>| 
-    ⚙️<b>Python / Java</b>
-      ><br/>
-       <strong>「JUEST BE YOURSELF」<strong>
-  </samp>
-</p>
-<br/>
-
+<div align="center">
+  <a href="mailto:lc5207242@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:2127137114@qq.com"><img src="https://img.shields.io/badge/QQ_Email-EB4B36?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
+  <a href="mailto:charmy.henu.edu.cn"><img src="https://img.shields.io/badge/School_Email-791CB5?style=for-the-badge&logo=mailbox&logoColor=white" /></a>
+</div>
 
 <!-- 底部横幅 -->
 <div align="center">
