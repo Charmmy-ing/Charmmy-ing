@@ -1,4 +1,46 @@
 <!-- 顶部动态欢迎横幅  -->
+## 📈 Contribution Analytics
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=md-abu-kayser&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Md Abu Kayser's GitHub Contribution Analytics"
+      width="98%"
+    />
+  </a>
+</p>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                   -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+  />
+
+<img
+    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity - Last 365 Days"
+    width="100%"
+  />
+
+</picture>
+
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:611691,100:4A0E78&height=90&section=header&text=Hi%2C+I'm+Charmmy&fontSize=39&fontColor=ffffff&fontAlignY=30" width="100%"/>
 </div>
