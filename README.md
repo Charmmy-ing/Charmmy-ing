@@ -17,14 +17,13 @@
   </samp>
 </p>
 <br/>
-
+         
 ---
 ### 🧪！！！Projects under development: X Synapse
 [Stay tuned – the V1 version will be launched in the near future]
 >X Synapse is a Twitter-like social content platform designed with the core concept of **AI-Native**. Unlike traditional social platforms, X Synapse deeply integrates Large Language Models (LLMs) and multi-agent systems at the architectural level, elevating AI capabilities from an "add-on feature" to a "platform-native capability".
 ---
-
-<!-- 技术栈 -->
+         
 <table align="center">
   <tr>
     <td align="center" width="40%">
